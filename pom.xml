@@ -10,7 +10,7 @@
 	<groupId>com.devsuperior</groupId>
 	<artifactId>dslis</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dslis</name>
+	<name>dslist</name>
 	<description>intesivao javga spring</description>
 	<properties>
 		<java.version>17</java.version>
